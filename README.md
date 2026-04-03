@@ -180,13 +180,6 @@ Includes tests for:
 
 ---
 
-## 👤 Author
-
-Priyanshu Joshi
-IIT Kanpur – Material Science and Engineering
-Team Humanoids
-
----
 
 ## 📄 License
 
